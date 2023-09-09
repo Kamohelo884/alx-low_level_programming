@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - this is the main function
- * return: always o
+ * return: 0
  */
 
 /* more headers goes there */
